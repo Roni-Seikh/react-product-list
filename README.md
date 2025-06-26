@@ -1,60 +1,72 @@
 # 🛒 React Product List with Search Filter
 
-This project is a simple product list built with **React**, showcasing a **search filter** that filters products by name. It uses **functional components** and **React hooks** like `useState`.
+A simple React app that displays a product list with a **real-time search filter**. Built using **functional components** and **React hooks** like `useState`.
 
 ---
 
 ## ✨ Features
 
-- Functional React components
-- Real-time product name filtering
-- Responsive design (desktop and mobile)
-- Simple, hardcoded JSON product data 
+* 🔍 Real-time product name filtering
+* ⚛️ Functional components & React hooks
+* 📱 Responsive design (mobile & desktop)
+* 📦 Hardcoded JSON product data
 
 ---
 
 ## 📸 Screenshots
 
-### 🖥️ Home Screen
+### 🖥️ Desktop View
+
 ![Home Screen](./screenshots/Home%20Screen.png)
 
-### 📱 Mobile Screen
+### 📱 Mobile View
+
 ![Mobile Screen](./screenshots/Mobile%20Screen.png)
 
 ---
 
-## 🧠 Technologies Used
+## 🧠 Tech Stack
 
-- React (with `create-react-app`)
-- JavaScript (ES6+)
-- CSS (basic styling)
+* **React** (via `create-react-app`)
+* **JavaScript** (ES6+)
+* **CSS** (basic styling)
 
 ---
 
-## 🚀 How to Run the Project
+## 🚀 Getting Started
+
+Follow these steps to run the app locally:
 
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Roni-Seikh/react-product-list.git
 cd product-search-app
+```
 
-2. Install dependencies
+### 2. Install dependencies
+
+```bash
 npm install
+```
 
-3. Run the app
+### 3. Start the development server
+
+```bash
 npm start
-The app will start on http://localhost:3000
+```
+
+The app will run at **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
-Want to collaborate or connect?
+Want to connect or collaborate?
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/roniseikh)
-- 🐙 [GitHub](https://github.com/Roni-Seikh)
+* 🔗 [LinkedIn – Roni Seikh](https://www.linkedin.com/in/roniseikh)
+* 🐙 [GitHub – @Roni-Seikh](https://github.com/Roni-Seikh)
 
 ---
 
-> Designed & developed with ❤️ by Roni Seikh
+> Designed & developed with ❤️ by **Roni Seikh**
